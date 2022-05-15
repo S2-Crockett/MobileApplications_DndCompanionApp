@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>739141372042-knam0f2hr7qa0ei66jl338kekk29c006.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.739141372042-knam0f2hr7qa0ei66jl338kekk29c006</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqu25grNGVLCf1M-T022YcCqTqugrmlwo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>739141372042</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sam.crockett.DndCompanionApp</string>
+	<key>PROJECT_ID</key>
+	<string>dndcompanionapp-20509</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dndcompanionapp-20509.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:739141372042:ios:c393d2fb6255987d8b0573</string>
+</dict>
+</plist>
